@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Account service related QA APIs"
+  contactDetails:
+    name: "Rocky Balbo - QA Lead"
+    email: "{cipher}0b6e61a8d0590289b6cd2fa1c2a4cab8277189ae0821bb43e635ff1c8eaf6738f4586cd6439fcc6fee6d38de46d52e8c"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

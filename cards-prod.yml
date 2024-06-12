@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Card service related prod APIs"
+  contactDetails:
+    name: "John Wick - Product Owner"
+    email: "johnwick@mail.com"
+  onCallSupport:
+    - (453) 357-9510
+    - (453) 654-7533

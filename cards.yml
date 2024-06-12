@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Card service related local APIs"
+  contactDetails:
+    name: "John Rembo - Developer"
+    email: "johnrembo@mail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

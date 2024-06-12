@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Account service related local APIs"
+  contactDetails:
+    name: "John Rembo - Developer"
+    email: "{cipher}300f9e18dbcb299c5bf201bce4b2863f3d49be01ccf973627627b21ff9f1ef572d6832bfb607dbb07a8afc55e1a05a3f"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
+
