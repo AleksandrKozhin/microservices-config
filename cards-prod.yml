@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Card service related prod APIs"
+  message: "Welcome to Card service related production APIs"
   contactDetails:
     name: "John Wick - Product Owner"
     email: "johnwick@mail.com"
