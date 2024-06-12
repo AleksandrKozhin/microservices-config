@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Account service related production APIs"
+  message: "Welcome to Account service related webhook APIs"
   contactDetails:
     name: "John Wick - Product Owner"
     email: "{cipher}c0d31474679afb95d7d6bac9de68bd88cc3c07c886994ea53f1df7806108a930d30cd21d0b1b1a041c98ba93fbe24efb"
